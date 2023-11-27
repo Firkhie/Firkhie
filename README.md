@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firkhie&label=Profile%20views&color=0e75b6&style=flat" alt="firkhie" /> </p>
 
-- 🔭 I’m currently working on [Nekomics](https://nekomics-app.web.app/)
-
-- 🌱 I’m currently learning **Frameworks especially Vue.js**
+- 🔭 My latest project [Nekomics](https://nekomics-app.web.app/)
 
 - 👨‍💻 All of my projects are available at [https://alfalakhi-website.web.app/](https://alfalakhi-website.web.app/)
 
