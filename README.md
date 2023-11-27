@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://alfalakhi-website.web.app/](https://alfalakhi-website.web.app/)
 
+- 🧑‍💼 Currently working as a Fullstack Engineer at Feedloop AI.
+
 - 📫 How to reach me **Alfalakhie@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
