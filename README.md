@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alfalakhi-website.web.app/](https://alfalakhi-website.web.app/)
 
-- 🧑‍💼 Currently working as a Fullstack Engineer at Feedloop AI.
+- 🧑‍💼 Currently working as a Fullstack Engineer at Feedloop AI
 
 - 📫 How to reach me **Alfalakhie@gmail.com**
 
@@ -16,5 +16,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/firdigalfalakhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firdigalfalakhi" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firkhie&" alt="firkhie" /></p>
