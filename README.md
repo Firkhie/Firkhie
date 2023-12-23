@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firdig Alfalakhi</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack engineer from Indonesia</h3>
 <img align="right" alt="lucky-star" width="400" src="https://media.tenor.com/2PB70c2DvQkAAAAC/lucky-star-anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firkhie&label=Profile%20views&color=0e75b6&style=flat" alt="firkhie" /> </p>
