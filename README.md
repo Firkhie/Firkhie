@@ -4,11 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firkhie&label=Profile%20views&color=0e75b6&style=flat" alt="firkhie" /> </p>
 
-- 🔭 My latest project [Nekomics](https://nekomics-app.web.app/)
+- 🔭 My latest project [VoxAI](https://vox-ai-pi.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://alfalakhi-website.web.app/](https://alfalakhi-website.web.app/)
-
-- 🧑‍💼 Currently working as a Fullstack Engineer at Feedloop AI
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-tau-bice-43.vercel.app/)
+- 🧑‍💼 Actively seeking new opportunities as a Fullstack Engineer
 
 - 📫 How to reach me **Alfalakhie@gmail.com**
 
