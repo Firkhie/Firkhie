@@ -6,7 +6,7 @@
 
 - 🔭 My latest project [VoxAI](https://vox-ai-pi.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-tau-bice-43.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://alfalakhie-portfolio.vercel.app/)
 - 🧑‍💼 Actively seeking new opportunities as a Fullstack Engineer
 
 - 📫 How to reach me **Alfalakhie@gmail.com**
