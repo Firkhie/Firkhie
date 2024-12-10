@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firkhie&label=Profile%20views&color=0e75b6&style=flat" alt="firkhie" /> </p>
 
-- 🔭 My latest project [VoxAI](https://vox-ai-pi.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://alfalakhie-portfolio.vercel.app/)
+- 🔭 My latest project [OvertureAI](https://overtureai.catco.uno/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://alfalakhi.catco.uno/)
 - 🧑‍💼 Actively seeking new opportunities as a Fullstack Engineer
-
 - 📫 How to reach me **Alfalakhie@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
