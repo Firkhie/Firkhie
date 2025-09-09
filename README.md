@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/mBOLoZc.gif" alt="test" /> 
 <h1 align="center">Hi 👋, I'm Firdig Alfalakhi</h1>
 <h3 align="center">A passionate fullstack engineer from Indonesia</h3>
 <img align="right" alt="lucky-star" width="400" src="https://media.tenor.com/2PB70c2DvQkAAAAC/lucky-star-anime.gif">
