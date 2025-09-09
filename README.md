@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://i.imgur.com/mBOLoZc.gif" alt="header-gif" style="border-radius: 12px; width: 100%;"/>
+  <img src="https://i.imgur.com/mBOLoZc.gif" alt="header-gif" width="100%" height="250px" style="object-fit: cover;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Firdig Alfalakhi</h1>
