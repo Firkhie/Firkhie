@@ -3,4 +3,5 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=firkhie&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://badges.pufler.dev/commits/monthly/firkhie" alt="commits-per-month" />
 </p>
