@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm Firdig Alfalakhi</h4>
+<h2>Hi 👋, I'm Firdig Alfalakhi</h4>
 
 <img src="https://komarev.com/ghpvc/?username=firkhie&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 
